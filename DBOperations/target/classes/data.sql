@@ -1,0 +1,6 @@
+insert into Employee(dept_Name,age,dept_Id) values('Prem1',20,1)
+insert into Employee(dept_Name,age,dept_Id) values('prem2',25,2)
+insert into Employee(dept_Name,age,dept_Id) values('prem3',30,2)
+insert into Department(dept_Id,dept_Name) values(1,'cse')
+insert into Department(dept_Id,dept_Name) values(2,'ece')
+insert into Department(dept_Id,dept_Name) values(3,'cse')

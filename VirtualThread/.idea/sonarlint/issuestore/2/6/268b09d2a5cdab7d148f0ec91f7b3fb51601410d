@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜•†é…2J$7f63a85b-42c9-4a35-8df1-08ea9aee6313
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğ­ø¬ÿÿÿÿÿ8£•†é…2J$70055983-c14f-4b24-a65b-03a9eff8b536
+r	java:S106("+Replace this use of System.out by a logger.(«…ø×üÿÿÿÿ8ÊœŠé…2J$0f13c5fe-1521-4d1d-a1ee-6e4e30743423
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(˜ÙÈÎùÿÿÿÿ8­•†é…2J$493a2907-4356-48e2-bf2f-571dc4640812
+’
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8ç»é…2J$0d97776d-2a3c-43bf-8cae-d6469da450b8

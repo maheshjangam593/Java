@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö ™ˆşÿÿÿÿ8«¾Õ¸‘1
+r
+java:S3655!"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(üâÔÔúÿÿÿÿ8…ÁÕ¸‘1
+Z
+java:S1854&"8Remove this useless assignment to local variable "save".(ÉºÓ•ÿÿÿÿÿ8µÂÕ¸‘1
+X	java:S125$"<This block of commented-out lines of code should be removed.(‰Ù·8ÁÂÕ¸‘1
+K
+java:S1481&")Remove this unused "save" local variable.(ÉºÓ•ÿÿÿÿÿ8İÂÕ¸‘1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ïê÷Üÿÿÿÿÿ8ŞÂÕ¸‘1
+X	java:S125'"<This block of commented-out lines of code should be removed.(¢É±¨8ïÂÕ¸‘1
+]	java:S125-"<This block of commented-out lines of code should be removed.(ƒò¹·úÿÿÿÿ8ıÂÕ¸‘1
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ8ƒÃÕ¸‘1
+s
+java:S1128
+"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8„ÃÕ¸‘1
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8…ÃÕ¸‘1

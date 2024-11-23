@@ -1,0 +1,14 @@
+
+|
+java:S3400"9Remove this method and declare a constant for this value.(ÃÍÓ®8ƒ… œ‰2J$d3a2a365-dcaf-48dd-b09a-09b7c3c0ac63
+^
+java:S3626"Remove this redundant jump.(ûÁİ…8Š… œ‰2J$8fe28c7f-20b5-4273-b38c-acca44425781
+r	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ8… œ‰2J$55c00658-1024-484d-afcd-e6fa6b8d6dd6
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8ÍÜ œ‰2J$7ddd98ed-635f-49aa-8a22-0f9e2dccd3d2
+
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ÎÜ œ‰2J$1be5410a-19b9-4ca1-bdbc-717a99dd041f
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8É•½œ‰2J$5c63b545-7ffe-4261-9d76-c80e6c4b1d9f
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ê•½œ‰2J$d77986bc-7375-4993-be96-5a741b4272dc
